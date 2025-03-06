@@ -101,18 +101,6 @@ The React application will automatically open in your default web browser at htt
 ### Database Setup
 - If your application uses MongoDB, ensure MongoDB is set up either locally or through a cloud provider. Provide the connection string in your backend configuration to connect to your database.
 
-## Contribution
-
-**Shail Patel** - ShailP200
-
-**Deven Patel** - dpate423 
-
-**Vandit Shah** - vandituv03
-
-**Ayush Thakkar** - AyushThakkar18
-
-**Jash Patel** - jashp007
-## License
 
 © 2025 Team AgriMitra. All rights reserved.
 
